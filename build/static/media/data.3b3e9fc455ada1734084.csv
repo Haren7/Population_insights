@@ -1,0 +1,101 @@
+ID,Name,Age,Occupation,Father's ID
+1,John Smith,25,Engineer,0
+2,Sarah Johnson,32,Teacher,1
+3,Michael Brown,41,Doctor,1
+4,Emily Davis,28,Lawyer,1
+5,David Wilson,35,Architect,1
+6,Jennifer Thompson,29,Software Developer,2
+7,Christopher Martinez,37,Accountant,2
+8,Amanda Anderson,45,Nurse,2
+9,Joshua Taylor,31,Writer,2
+10,Stephanie Clark,27,Marketing Manager,3
+11,Matthew Rodriguez,39,Research Scientist,3
+12,Samantha Lewis,33,Graphic Designer,3
+13,Andrew Lee,26,Data Analyst,3
+14,Lauren Hall,34,Financial Analyst,4
+15,Brandon Wright,43,Professor,4
+16,Elizabeth Moore,30,Pharmacist,4
+17,Joseph Hill,36,Police Officer,4
+18,Ashley Baker,24,Student,5
+19,Daniel Green,40,Entrepreneur,5
+20,Victoria Carter,31,HR Manager,5
+21,Robert Adams,38,Consultant,5
+22,Natalie Allen,29,Social Worker,6
+23,James Young,47,Real Estate Agent,6
+24,Olivia King,35,Journalist,6
+25,Thomas Scott,26,Web Designer,6
+26,Grace Hall,42,Project Manager,7
+27,William Campbell,28,Photographer,7
+28,Emily Reed,33,Event Planner,7
+29,Alexander Phillips,30,Software Engineer,7
+30,Sophia Torres,39,Artist,8
+31,David Cooper,32,Financial Advisor,8
+32,Abigail Nelson,45,Executive Assistant,8
+33,Christopher Martinez,37,Accountant,8
+34,Ava Turner,23,Research Assistant,9
+35,Jack Foster,36,Law Enforcement Officer,9
+36,Charlotte Russell,31,Product Manager,9
+37,Daniel Gray,29,Writer,9
+38,Chloe Perez,48,Teacher,10
+39,Joshua Turner,27,Marketing Specialist,10
+40,Olivia Price,34,Graphic Designer,10
+41,Sophia Robinson,41,Physician,10
+42,Ethan Murphy,35,Software Developer,11
+43,Mia Rivera,26,Data Scientist,11
+44,James Adams,37,Financial Analyst,11
+45,Ava Richardson,30,Lecturer,11
+46,Logan Morris,46,Engineer,12
+47,Emma Peterson,33,HR Manager,12
+48,Liam Bailey,28,Web Developer,12
+49,Isabella Howard,31,Consultant,12
+50,Josephine Wright,39,Nurse,13
+51,Mason Kelly,32,Architect,13
+52,Sophia Foster,44,Marketing Manager,13
+53,Aiden Patterson,29,Journalist,13
+54,Madison James,35,Photographer,14
+55,Daniel Adams,38,Data Analyst,14
+56,Grace Mitchell,25,Event Planner,14
+57,Logan Carter,33,Product Manager,14
+58,Chloe Phillips,42,Writer,15
+59,Michael Turner,36,Financial Advisor,15
+60,Emily Baker,31,Teacher,15
+61,Joshua Collins,29,Software Engineer,15
+62,Isabella Harris,33,Lawyer,16
+63,Ava Lopez,27,Marketing Manager,16
+64,Liam Allen,35,Research Scientist,16
+65,Mia Parker,30,Graphic Designer,16
+66,Oliver Lewis,38,Doctor,17
+67,Sophia Hall,41,Engineer,17
+68,Noah Rodriguez,26,Data Analyst,17
+69,Emily Turner,34,Financial Analyst,17
+70,Ethan Wright,29,Photographer,18
+71,Emma Martinez,36,Architect,18
+72,Michael Taylor,43,Project Manager,18
+73,Olivia Green,31,Writer,18
+74,Aiden Adams,28,Event Planner,19
+75,Mia Johnson,39,Software Developer,19
+76,James King,30,Pharmacist,19
+77,Emily Wilson,37,Marketing Specialist,19
+78,Sophia Turner,35,Artist,20
+79,Liam Baker,42,Consultant,20
+80,Oliver Nelson,32,Social Worker,20
+81,Noah Phillips,39,Financial Advisor,20
+82,Ava Foster,33,HR Manager,21
+83,Ethan Perez,45,Teacher,21
+84,Emma Mitchell,27,Research Assistant,21
+85,Isabella Adams,34,Law Enforcement Officer,21
+86,Olivia Kelly,28,Product Manager,22
+87,Mason Scott,36,Writer,22
+88,Mia Thompson,31,Executive Assistant,22
+89,Sophia Collins,48,Professor,22
+90,Noah Murphy,29,Web Designer,23
+91,Emily Bailey,30,Photographer,23
+92,Liam Robinson,37,Software Engineer,23
+93,Oliver Gray,35,Entrepreneur,23
+94,Emma Davis,26,Real Estate Agent,24
+95,Ava Young,42,Journalist,24
+96,Mia Reed,33,Data Scientist,24
+97,James Rodriguez,38,Financial Analyst,24
+98,Emily Allen,45,Lecturer,25
+99,Sophia Morris,31,Engineer,25
+100,Noah Peterson,36,HR Manager,25
